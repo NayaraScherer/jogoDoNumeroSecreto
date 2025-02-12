@@ -1,1 +1,6 @@
 temp/
+echo "../desafio-js-projeto_inicial/" >> .gitignore
+echo "../img/" >> .gitignore
+echo "../js-curso-2-aula1/" >> .gitignore
+echo "../js-curso-2/" >> .gitignore
+echo "../logica-js-projeto_inicial/" >> .gitignore
